@@ -50,5 +50,6 @@ A flashcard-style educational game where players **bust ghosts by answering ques
 
 ## 🔗 Links
 
-- 💻 **Source Code**: [GitHub Repository](https://github.com/nathwung/flashcard-spook-busters)  
 - 🎥 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1Bc_nfNsYvVfAD3h_ePbgxMDgUvlz8G4O/view)
+- 🧠 **Devpost Page**: [Flashcard Spook Busters on Devpost](https://devpost.com/software/flashcard-spook-busters)
+- 💻 **Source Code**: [GitHub Repository](https://github.com/nathwung/flashcard-spook-busters)  
