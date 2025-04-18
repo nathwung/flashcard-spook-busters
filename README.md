@@ -23,7 +23,7 @@ A flashcard-style educational game where players **bust ghosts by answering ques
 
 ## ⚙️ Development Highlights
 
-- 🧠 **Python Prototype**  
+- 🐍 **Python Prototype**  
   Developed core game logic in Python to test and refine gameplay mechanics:
   - Random ghost spawning  
   - Question/answer handling  
